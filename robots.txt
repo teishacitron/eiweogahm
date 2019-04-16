@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eengaeshu.amerisouthrealty.com/sitemap.xml
